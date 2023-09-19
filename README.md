@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a backend software engineer with over two years of experience in developing high-performance, scalable, and secure web applications. I have worked with various backend technologies and frameworks, such as Golang, Python, PostgreSQL, AWS, GCP, etc. I have also contributed to frontend development using JavaScript and React. I have successfully delivered solutions for various domains, such as food delivery, online trading, and healthcare. I am passionate about learning new skills and solving complex problems. I enjoy working on projects that require backend development skills and have well-defined specifications. I value communication, collaboration, and customer satisfaction in my remote work journey.
+
+- 🌱 I’m currently learning **MLOps**
+- 📫 Please reach out to me: abdullah.f98m@gmail.com
+
 <!--
 **AbdallaMourad/AbdallaMourad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
